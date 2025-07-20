@@ -1,14 +1,6 @@
-# Resumetric-AI: Your AI-Powered Resume Analyzer
+# Resumetric: Your AI-Powered Resume Analyzer
 
-[![Build Status](https://img.shields.io/badge/Status-Live%20on%20Vercel-brightgreen)](https://ai-resume-analyzer-six-sage.vercel.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
----
-
-## 🌟 Overview
+## Overview
 
 In the competitive job market, a perfectly crafted resume can be your gateway to success. **Resumetric** is an intelligent web application designed to empower job seekers and streamline the resume screening process. Leveraging cutting-edge Artificial Intelligence, it provides instant, comprehensive feedback on resumes, helping users optimize their applications for maximum impact.
 
@@ -16,20 +8,20 @@ Say goodbye to endless revisions and guesswork. Simply upload your PDF resume, a
 
 ---
 
-## ✨ Key Features & Benefits
+## Key Features & Benefits
 
 Resumetric is more than just a tool; it's your personal resume coach.
 
-* **🧠 AI-Powered Analysis:**
+* ** AI-Powered Analysis:**
     * Get intelligent insights into your resume's strengths and weaknesses.
     * Receive suggestions for keywords, formatting, readability, and content optimization.
     * Gain a competitive edge by tailoring your resume precisely to job requirements.
 
-* **📄 Seamless PDF Integration:**
+* ** Seamless PDF Integration:**
     * Effortlessly upload your PDF resumes with a intuitive drag-and-drop interface.
     * **Unique Feature: On-the-Fly PDF to Image Conversion:** Resumetric automatically converts your PDF resume's first page into a high-quality image preview, providing immediate visual feedback without needing to open the PDF. This allows for quick, scannable overviews within the application.
 
-* **📐 Fully Responsive & Intuitive UI/UX:**
+* ** Fully Responsive & Intuitive UI/UX:**
     * Crafted with **React** and styled beautifully with **Tailwind CSS**, the application offers a clean, modern, and highly responsive user interface.
     * Enjoy a consistent and engaging experience across all devices – desktops, tablets, and mobile phones.
     * User authentication for secure and personalized access.
@@ -46,16 +38,16 @@ Experience Resumetric live: [https://ai-resume-analyzer-six-sage.vercel.app](htt
 
 _To add screenshots, create a folder named `screenshots` (or `assets`) in your GitHub repository's root. Then upload your images there and use the paths like shown below._
 
-![Login Page](screenshots/login-page.png)
-_A clean and intuitive login interface._
+![Home Page](screenshots/homepage.png)
+_A clean and intuitive Home page._
 
-![Dashboard/Upload](screenshots/dashboard-upload.png)
+![Upload](screenshots/upload.png)
 _Easily upload your resume with drag-and-drop functionality._
 
-![Analysis Result Preview](screenshots/analysis-preview.png)
+![Analysis Result Preview](screenshots/feedback.png)
 _Instant visual preview of your PDF resume after upload._
 
-![Detailed Analysis](screenshots/detailed-analysis.png)
+![Detailed Analysis](screenshots/detailedfeedback.png)
 _Comprehensive AI-generated insights and recommendations._
 
 ---
