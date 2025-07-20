@@ -6,51 +6,44 @@ In the competitive job market, a perfectly crafted resume can be your gateway to
 
 Say goodbye to endless revisions and guesswork. Simply upload your PDF resume, and let Resumetric provide a data-driven analysis, ensuring your strengths shine through.
 
----
-
 ## Key Features & Benefits
 
 Resumetric is more than just a tool; it's your personal resume coach.
 
-* ** AI-Powered Analysis:**
+*  AI-Powered Analysis:
     * Get intelligent insights into your resume's strengths and weaknesses.
     * Receive suggestions for keywords, formatting, readability, and content optimization.
     * Gain a competitive edge by tailoring your resume precisely to job requirements.
 
-* ** Seamless PDF Integration:**
+*  Seamless PDF Integration:
     * Effortlessly upload your PDF resumes with a intuitive drag-and-drop interface.
     * **Unique Feature: On-the-Fly PDF to Image Conversion:** Resumetric automatically converts your PDF resume's first page into a high-quality image preview, providing immediate visual feedback without needing to open the PDF. This allows for quick, scannable overviews within the application.
 
-* ** Fully Responsive & Intuitive UI/UX:**
+*  Fully Responsive & Intuitive UI/UX:
     * Crafted with **React** and styled beautifully with **Tailwind CSS**, the application offers a clean, modern, and highly responsive user interface.
     * Enjoy a consistent and engaging experience across all devices – desktops, tablets, and mobile phones.
     * User authentication for secure and personalized access.
 
----
 
 ## 🚀 Live Demo
 
 Experience Resumetric live: [https://ai-resume-analyzer-six-sage.vercel.app](https://ai-resume-analyzer-six-sage.vercel.app)
 
----
 
 ## 📸 Screenshots
-
-_To add screenshots, create a folder named `screenshots` (or `assets`) in your GitHub repository's root. Then upload your images there and use the paths like shown below._
 
 ![Home Page](screenshots/homepage.png)
 _A clean and intuitive Home page._
 
-![Upload](screenshots/upload.png)
+![Upload](screenshots/uploadpage.png)
 _Easily upload your resume with drag-and-drop functionality._
 
-![Analysis Result Preview](screenshots/feedback.png)
+![Analysis Result Preview](screenshots/feedbackpage.png)
 _Instant visual preview of your PDF resume after upload._
 
 ![Detailed Analysis](screenshots/detailedfeedback.png)
 _Comprehensive AI-generated insights and recommendations._
 
----
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +59,7 @@ _Comprehensive AI-generated insights and recommendations._
 * **AI Integration:**
     * _**Claude Sonnet 4**_
 
----
+
 
 ## 🏁 Getting Started (Local Development)
 
